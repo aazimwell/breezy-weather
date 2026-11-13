@@ -207,3 +207,4 @@ Otherwise, remember to:
   - Change the app name in [`res_fork/values/strings.xml`](https://github.com/breezy-weather/breezy-weather/blob/main/app/src/res_fork/values/strings.xml)
   - Change the app icons in the [`res_fork`](https://github.com/breezy-weather/breezy-weather/blob/main/app/src/res_fork) folders
   - Avoid installation conflicts: change the `applicationId` in [`build.gradle.kts`](https://github.com/breezy-weather/breezy-weather/blob/main/app/build.gradle.kts#L25)
+
